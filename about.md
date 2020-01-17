@@ -12,7 +12,7 @@ School Email: [wezley.mitchell@uky.edu](mailto:wdmi229@uky.edu)
 
 ### About
 
-My passion is designing something new, from drawing to cad to manufcaturing and bringing an idea to life.
+My passion is designing new things, from drawing to cad to manufcaturing and bringing an idea to life.
 The scope of my interests spans far beyond just mechanics. I am experienced in pcb design and manufacuring. Programming in C/C++/Python. Manual and CNC machining. Design for manufacturing. Lithium-ion rechargeable batteries.
 
 ### Reason for creating this blog
