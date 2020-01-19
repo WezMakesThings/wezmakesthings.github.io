@@ -3,8 +3,9 @@ layout: post
 title: Nerf target range PCB and lighting.
 ---
 
-A local company, Corman and Associates in Lexington, hired me on to do the programming and electrical design for a Nerf shooting range project. The contract is with the U.S Marines. Shown here is the finished PCB that detects the impact of the dart on the target, plays a sound, and runs a neopixel light animation. 
 ![Ring test]({{ site.baseurl }}/images/nerf/ringtest.gif)
+
+A local company, Corman and Associates in Lexington, hired me on to do the programming and electrical design for a Nerf shooting range project. The contract is with the U.S Marines. Shown here is the finished PCB that detects the impact of the dart on the target, plays a sound, and runs a neopixel light animation. 
 
 *PCB*
 
