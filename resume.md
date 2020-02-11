@@ -15,7 +15,7 @@ University of Kentucky Mechanical Engineering student, well versed in CAD, DFM a
 
 ---
 
-### Skills
+## Skills
 6 years of experience using 3D CAD software. Creo Pro-engineer, Autodesk Solidworks. Tolerance analysis. Geometric tolerancing. CNC Machining. 3d printing. Li-ion rechargeable batteries. Wireless device enclosure design. Design of audio systems. PCB Design.
 
 ## Experience
@@ -25,7 +25,7 @@ University of Kentucky Mechanical Engineering student, well versed in CAD, DFM a
 
 I teach students how to safely operate laser cutters, 3D printers, and CNC mills. Run safety training on power equipment. Help students decide what materials and manufacturing processes are best for their projects. Regularly maintain equipment.  Give tours of the space to high schoolers and their family. Record logs of activity in the Makerspace such as, people, machine running hours, material purchased.
 
-###Corman & Associates - Engineering Contract
+### Corman & Associates - Engineering Contract
 #### Nov 2018 - Jan 2019
 
 Designed sensors, pcb, lighting, audio and programmed the control system of an interactive Nerf shooting range game cabinet. Installed and tested my components. Successfully finished the project to ship on time within budget.
