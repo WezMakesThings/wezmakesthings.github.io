@@ -1,6 +1,6 @@
 ---
 layout: post
-title: One Wheel out of scrap.
+title: One Wheel out of Scrap
 ---
 
 Hoverboards, the self balancing scooters that started being produced en-mass in 2014. There have been many instances of units catching fire. It is widely regarded as an issue of quality control of the high current devices or perhaps sketchy Li-ion cells. Because of this and the fact that some would simply throw people off of them. They are largely banned everywhere. The dorm I live in goes so far to ban all forms of electric people mover with a few exceptions. Basically if it doesn't look like a hoverboard and it can't be chained up outside it's overlooked. Electric skateboards and notably the *One Wheel* is allowed around in the dorm. 
