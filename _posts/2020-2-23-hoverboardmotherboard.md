@@ -1,0 +1,21 @@
+---
+layout: post
+title: All hoverboards are not created equal.
+---
+
+When I salvaged the wheels from a hoverboard in an attempt to make an 3 wheeled electric long board I destroyed the motor controller. I was convinced I would not need to use it again nor was I aware they could be reprogrammed. That was a mistake. I'm fairly sure I would have had exactly what I needed for this project if I hadn't taken the transistors off that controller and threw it out. eBay to the rescue, sort of. 
+
+So far I've bought and returned a hoverboard, and now I have to return a "motherboard replacement". The Basis for this project is that I will be able to control two hoverboard wheels simultaneously using the hoverboards original firmware. This has been accomplished by others in the past by taking the singal from one gyro and splicing it into both inputs on the main board. However this only really works with a much older version of the "Smart Balance Scooter" electronics as I've now learned.
+
+![Newest Version]({{ site.baseurl }}/images/wheel/newestcontroller.jpg)
+From what I've gathered this is the most advanced newest version of the control systems for these scooters. Two Identical boards, power and data wired between them. Each controls one motor and sports one gyro. The boards are populated to either be master or slave. This is the best engineered version, produces the least waste and can be manufactured the cheapest. All newer hoverboards will likely have these electronics and are usually paired with smaller batteries, 25volts or so. For my purposes these boards are not usable at all. Everything is self contained on their respective sides and there is no way for me to sync up the two motors. They're also not very useful for other projects either since there is not any resources that I've found online for reprogramming these to do anything useful. This was the kind that the hoverboard I had to return had, though I really had to return it since it didn't even turn on. I opened it up to find that I had been shipped a product with a dead battery that wouldn't accept a charge. Quality control still doesn't seem to be a priority of the manufacturers of these devices.
+
+The second type of board I've came across are the ones typically advertised on eBay as "replacement main board"(s). These are new updated versions of the controller designed to fit the 3 board form factor of the older units. Unfortunately these won't work for this kind of hack either. 
+![Complex Version]({{ site.baseurl }}/images/wheel/replacement.jpg)
+Here is an annotated image of what I purchased. While it does have the 3 board form factor the two "gyro-boards" are not identical. Instead only the one boxed in green contains a what I presume to be the gyroscope chip boxed in red. An identical chip appears on the main motor control board. The second "gyro-board" appears to contain unpopulated circuitry for a bluetooth speaker. Both contain the circuitry to drive LEDs as the only commonality. Also notice that each board has it's own set of programming headers (purple) which all must program different things. If the dual board versions are the best engineered these are the worst. Not only do you have three boards but all three are different and all require a different connector. I don't see any advantage to manufacturing the circuits this way. I'm hoping for a swift return.
+
+I took to eBay once again to find the correct controller. A little more research yielded that I needed to look specifically for the original controller from a "Swagatron T1" or clone. I found this:
+![Old Version]({{ site.baseurl }}/images/wheel/s-x1.jpg)
+It may not be immediatly clear but this is exactly what I need. Take a closer look at those gyro-boards.
+![Old Version]({{ site.baseurl }}/images/wheel/s-x1g.jpg)
+Look at that, two identical boards, each with a simple 4 pin connector. Now that's hackable, In order to trick the motor controller into driving both wheels at the same exact speed all I will need to do is splice the blue and green wires from one of the "gyro-boards" into both inputs. This will cause the motor controller to think it's seeing two inputs of the same angle, turning a balancing scooter in two halves to a balancing scooter that can be rigidly connected. 
