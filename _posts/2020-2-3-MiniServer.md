@@ -4,6 +4,7 @@ title: Miniature NAS
 ---
 
 There's a standard that's growing in popularity in the maker community for small computer hardware like raspberry pi's and 3d printer hardware. [The 6" Rack](https://www.thingiverse.com/thing:1936196) designed by KronBjorn on thingiverse. I need to find a use for the box of raspberry pi's I have collecting dust. So I've decided to gut two external hard drives and build a mini NAS.
+![Finished print]({{ site.baseurl }}/images/hdd/mounted.jpg)
 
 ![WD External HDD]({{ site.baseurl }}/images/hdd/WD.jpg)
 #### WD External HDD.
