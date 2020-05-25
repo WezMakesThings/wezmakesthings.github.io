@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Metal Casting at Home
+title: Metal Casting at Home (first attempt)
 ---
 
 ![Melting]({{ site.baseurl }}/images/metal/melt.jpg)
