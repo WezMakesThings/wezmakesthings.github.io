@@ -20,6 +20,7 @@ Next steps towards the first functional casting.
 ![WheelHub]({{ site.baseurl }}/images/metal/wheelhub.jpg)
 
 Here's the current design for the wheel hub casting, this part will be drilled and tapped to allow two slightly modified hover board wheels. Its designed with fillets and a draft angle of 5 degrees. This part will be printed in two halves and I have two ways I could make a casting mold.
+
 ![myfordboy](https://i.ytimg.com/vi/GXSCx50LlNo/hqdefault.jpg)
 
 *myfordboy on youtube this guy is awesome*
