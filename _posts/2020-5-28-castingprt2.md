@@ -23,6 +23,7 @@ Here's the current design for the wheel hub casting, this part will be drilled a
 ![myfordboy](https://i.ytimg.com/vi/GXSCx50LlNo/hqdefault.jpg)
 
 *myfordboy on youtube this guy is awesome*
+
 Foundry green sand can be bought relatively cheep in quantities of ten pounds from amazon. Which I'm told equates to about a 6" cube of volume, which would be more than enough for this small part and any other small parts I could create with the small crucible and foundry I built. The pattern would be 3d printed and wouldn't need to be destroyed.
 ![research gate](https://www.researchgate.net/profile/Mika_Salmi/publication/284644667/figure/fig28/AS:613908758933545@1523378662699/Investment-casting-27.png)
 
