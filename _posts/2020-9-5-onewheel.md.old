@@ -1,0 +1,17 @@
+---
+layout: post
+title: DIY Onewheel Finished.
+---
+
+![]({{ site.baseurl }}/images/owheelfinal/indagrass.jpg)
+The DIY Onewheel is complete. I'll be wrapping up this build log in this post. I'm calling this version one. There were some problems with the build detailed bellow.
+
+#### BMS and battery.
+![]({{ site.baseurl }}/images/owheelfinal/BMSconnectors.jpg)
+I'm using a 10s3p battery. The BMS connects on the anode side, shown above, a XT60 connector for the load, and a XT30 connector for the charging plug.
+![]({{ site.baseurl }}/images/owheelfinal/bmsfinished.jpg)
+BMS with the nickle strips attached so that it can be bolted to the battery terminals.
+![]({{ site.baseurl }}/images/owheelfinal/10s3p.jpg)
+Here is the battery in half of its printed casing. The caps either side of the 18650 cells are a kit made by Vruzend. Since I didn't have access to a spot welder for this summer project this was a good way to build a large battery quickly without destroying the cells with solder. However a lot of the battery caps cracked and had to be replaced on another battery I built with this kit. I'm not impressed with the quality and I've since ordered a spot welder for future battery projects.
+
+#### Cut and drill.
