@@ -10,7 +10,7 @@ While more complex than a quad rotor the tri rotor (Tri-copter? Ycopter? Yrotor?
 
 ![]({{ site.baseurl }}/images/tricopter/Tail.jpg)
 
-The motor is mounted on two small bearings from my leftover 3d printer parts. The servo is mounted to the other side of the arm and connected with Lego tie bars. These we're really the best option since they are ridged injection molded ABS and mounted on ball pivots to that the servo horn doesn't have to be directly lined up with the motor bracket. I need to redesign the servo horn so that I can screw it to the motor, one crash has been caused by the horn falling off and I don't have many propellers to spare. All printed parts are PETG and After re-printing some in different orientations seems to hold up well.
+The motor is mounted on two small bearings from my leftover 3d printer parts. The servo is mounted to the other side of the arm and connected with Lego tie bars. These were really the best option since they are ridged injection molded ABS and mounted on ball pivots to that the servo horn doesn't have to be directly lined up with the motor bracket. I need to redesign the servo horn so that I can screw it to the motor, one crash has been caused by the horn falling off and I don't have many propellers to spare. All printed parts are PETG and After re-printing some in different orientations seems to hold up well.
 
 ![]({{ site.baseurl }}/images/tricopter/YCopter.jpg)
 
