@@ -6,7 +6,7 @@ permalink: /resume/
 
 ## Wezley Mitchell
 
-Cell: (859) 325-5168; Email: [wezley.mitchell@uky.edu](mailto:wdmi229@uky.edu); Website: https://wezley.net
+Email: [wezley.mitchell@uky.edu](mailto:wdmi229@uky.edu); Website: https://wezley.net
 
 ## Education
 ---
