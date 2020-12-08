@@ -21,7 +21,7 @@ Here is the part I would like to print. Its a simple part meant to bolt to the t
 
 If we orient the largest face on the bottom which would be the easiest to print lets look at where this part would fail. 
 
-![Normal Failure]({{ site.baseurl }}/images/normal.jpg)
+![Normal Failure]({{ site.baseurl }}/images/3dgpm/normal.jpg)
 
 Shown here is the internal normal stress caused by the bolt holding the GoPro if it were to be pulled upward at stress concentration A-A. The normal stress is parallel to the layer lines thus a likely failure. 
 
