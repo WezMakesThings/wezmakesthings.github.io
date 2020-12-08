@@ -3,7 +3,6 @@ layout: post
 title: Designing 3d printed parts for strength
 ---
 
-#### 3d Printed Parts are Anisotropic
 #### Taking into account stress concentrations
 ![3d printed go pro mount]({{ site.baseurl }}/images/3dprintedgopromount.jpg)
 With an FDM printer the strength of a 3d printed part depends on many factors as its being printed. So much so that a engineering strain curve for the plastic wouldn't be very helpful for a specific printed part. Many filaments have color and other additives that change the properties of the plastic. Material data sheets aren't popular for rolls of filament unlike UV resins. Its difficult to do some proper mechanical engineering without the elastic modulus and yield point of the plastic. Though a decent approximation can be done using the anisotrpoic nature in the layered structure of an FDM part.
