@@ -16,7 +16,7 @@ The anisotropic nature of FDM parts like all anisotropic structures is due to ho
 
 Here is the part I would like to print. Its a simple part meant to bolt to the top of my quadcopter and have a GoPro connected to it. A few considerations: I would like for it to be a quick print, while I'm designing this to be as strong as possible, the 3d printed plastic is going to be weaker than the injection molded plastic GoPro case and the carbon fiber frame. In a crash this part will likely break before anything else does. Next, what orientation should this part be printed in. Lets consider the most obvious ones. Again the Z direction is the direction perpendicular to the print bed and layers. 
 
-![Z up]({{ site.baseurl }}/images/3dgpm/part.jpg) 
+![Z up]({{ site.baseurl }}/images/3dgpm/ort1.jpg) 
 *orientation with the largest face on the bottom*
 
 If we orient the largest face on the bottom which would be the easiest to print lets look at where this part would fail. 
