@@ -5,7 +5,7 @@ title: Designing 3d printed parts for strength
 
 #### Taking into account stress concentrations
 ![3d printed go pro mount]({{ site.baseurl }}/images/3dprintedgopromount.jpg)
-With an FDM printer the strength of a 3d printed part depends on many factors as its being printed. So much so that a engineering strain curve for the plastic wouldn't be very helpful for a specific printed part. Many filaments have color and other additives that change the properties of the plastic. Material data sheets aren't popular for rolls of filament unlike UV resins. Its difficult to do some proper mechanical engineering without the elastic modulus and yield point of the plastic. Though a decent approximation can be done using the anisotrpoic nature in the layered structure of an FDM part.
+With an FDM printer the strength of a 3d printed part depends on many factors as its being printed. So much so that a engineering strain curve for the plastic wouldn't be very helpful for a specific printed part. Many filaments have color and other additives that change the properties of the plastic. Material data sheets aren't popular for rolls of filament unlike UV resins. Its difficult to do some proper mechanical engineering without the elastic modulus and yield point of the plastic. Though a decent approximation can be done using the anisotropic nature in the layered structure of an FDM part.
 
 ![3D print layers](https://images.squarespace-cdn.com/content/v1/5aa7425d697a98647314b490/1561183950912-QPHXRH3CSPS6JLJ63CHJ/ke17ZwdGBToddI8pDm48kAdtU4fTrGbiKn7Ng_9KivlZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpx2nX4JF6h6e2ZLpJYieoYH2iC55G3aPDaWeuWKkShdKaQRYo9CYmx5MdFwMlTbOOQ/3dPrintProcessDiagram.png?format=750w)
 *3d-pros.com*
