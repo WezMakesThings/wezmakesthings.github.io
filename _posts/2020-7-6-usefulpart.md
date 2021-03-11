@@ -3,6 +3,8 @@ layout: post
 title: Casting a useful part.
 ---
 
+![]({{ site.baseurl }}/images/wheelcasting/HolesThreaded.jpg)
+
 The DIY Onewheel project requires a part to join the two large BLDC motors so that a tire can mount between them. Originally this part was going to be machined out of aluminum round stock. Instead I decided to take a chance at the relatively low accuracy of casting from a 3d printed pattern.
 
 ![]({{ site.baseurl }}/images/wheelcasting/Beforesand.jpg)

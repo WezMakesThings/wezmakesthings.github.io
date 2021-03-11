@@ -3,7 +3,7 @@ layout: post
 title: Autonomous Tri-Copter
 ---
 
-I've been flying some micro quads recently. FPV is a lot of fun but there's only so much that can be done with a hobby drone under 250 grams. I wanted to build a multi-rotor that could do more than manual flight, something that could carry a payload  or scan an area with a camera guided by gps. I chose a tri-copter because I wanted to work on something more mechanically involved than a quad-copter, and they get better battery with less motors.
+I've been flying some micro quads recently. FPV is a lot of fun but there's only so much that can be done with a hobby drone under 250 grams. I wanted to build a multi-rotor that could do more than manual flight, something that could carry a payload  or scan an area with a camera guided by gps. I chose a tri-copter because I wanted to work on something more mechanically involved than a quad-copter, and they have better battery life since it uses less motors.
 ![]({{ site.baseurl }}/images/tricopter/YCopter2.jpg)
 
 While more complex than a quad rotor the tri rotor (Tri-copter? Ycopter? Yrotor? Why-copter?) is pretty simple mechanically. The two front motors are counter rotating and fixed to the frame while the rear motor is on a pivot driven by a symmetric four bar linkage. The front two motors cancel each others moment force though the tail motor has to be on a pivot so that it can angle its thrust to keep the whole drone from spinning.
