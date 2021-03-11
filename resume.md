@@ -27,7 +27,7 @@ We compete annually in NASA’s Lunabotics competition. (formally Robotic Mining
 ### UK Innovation Center - Prototyping guide
 #### Aug 2019 - Current
 
-Teach students how to safely operate laser cutters, 3D printers, and CNC mills. Run regular safety training on power equipment. Help students and university staff select materials and manufacturing processes for their projects. Maintain Equipment. Give tours of the lab to highschool students to promote the university. Record logs of machine running hours.
+Teach students how to safely operate laser cutters, 3D printers, and CNC mills. Run regular safety training on power equipment. Help students and university staff select materials and manufacturing processes for their projects. Maintain Equipment. Give tours of the lab to high school students to promote the university. Record logs of machine running hours.
 
 ### Corman & Associates - Engineering Contract
 #### Nov 2018 - Jan 2019
