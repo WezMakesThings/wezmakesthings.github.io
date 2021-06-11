@@ -3,7 +3,7 @@ layout: post
 title: Second Hand Cheap CNC. Part 1
 ---
 
-![cnc on my table]({{ site.baseurl }}/images/6040/cnconable.jpg)
+![cnc on my table]({{ site.baseurl }}/images/6040/cncontable.jpg)
 I bought this practically brand new cnc router from a machine shop in Florida. They shipped it to me on a pallet and pictured above is the first time I got it off of the garage floor.
 
 This machine is a "6040" they're cheap machines you find practically only on eBay and AliExpress. Cheap in the CNC world can mean different things to different people. In hobby CNC a $2,000 X-carve is cheap, some "Pro" routers can approach $10,000. These 6040 machines typically cost around $1,000 shipped from china. I was lucky to find a machine shop in Florida practically giving them away, likely because they were far under powered for their application.
